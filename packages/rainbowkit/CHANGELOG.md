@@ -1,5 +1,11 @@
 # @rainbow-me/rainbowkit
 
+## 2.1.3
+
+### Patch Changes
+
+- 001a0a9: Resolved an issue in development where browser detection would throw an error if `navigator.userAgent` was unavailable in the browser.
+
 ## 2.1.2
 
 ### Patch Changes

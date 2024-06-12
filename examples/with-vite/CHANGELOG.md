@@ -1,5 +1,12 @@
 # with-vite
 
+## 0.0.80
+
+### Patch Changes
+
+- Updated dependencies [001a0a9]
+  - @rainbow-me/rainbowkit@2.1.3
+
 ## 0.0.79
 
 ### Patch Changes
